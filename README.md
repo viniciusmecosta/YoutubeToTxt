@@ -32,7 +32,8 @@ project/
 │   ├── transcripts/
 │   │   ├── video1.txt
 │   │   ├── video2.txt
-│── youtube_transcriber.py
+│── youtubeForTxt.ipynb
+│── .gitignore
 │── README.md
 ```
 
